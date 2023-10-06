@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: #273030;
+    color: #ffff;
+
+}
+h1{
+    height: 16%;
+    margin: 1%;
+}
+#valores{
+    height: 20%;
+    margin-bottom: 5%;
+    margin-top: 1%;
+
+}
+#tiulo2{
+    margin-bottom: 25%;
+}
+h3{
+    color: #f25d25;
+}
+h4{
+    color: #0ca7e0;
+}
+h5{
+    color: #cb2026;
+}
+
+#redes {
+    margin-left:2% ;
+
+        #face{
+                width:4%;
+                height:4%;
+                margin:auto;
+
+        }
+        #whatsaap{
+            width:4%;
+            height:4%;
+            margin: auto;
+        }
+
+        #gmail{
+            width:4%;
+            height:4%;
+            margin: auto;
+        }
+}
+
+
+
